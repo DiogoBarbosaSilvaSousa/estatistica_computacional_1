@@ -1,2 +1,2 @@
-# estatistica_computacional_1
+# Estatística Computacional 1
 Linguagem de programação R  no curso de estatística computacional da ENCE
